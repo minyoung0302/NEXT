@@ -1,0 +1,16 @@
+.search {
+    position: absolute;
+    top: 330px;
+    left: 50%;
+    margin-left: -540px;
+    width: 980px;
+    height: 60px;
+    background-color: #1E2025;
+    border: 2px solid #00040D;
+   
+    color: white;
+    text-align: center;
+    line-height: 60px;
+    font-size: 24px;
+    
+}

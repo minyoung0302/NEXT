@@ -1,0 +1,97 @@
+.header1 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+
+    width: 100vw;
+    height: 80px;
+    background: #14122e;
+    color: white;
+
+    min-width: 1080px;
+}
+
+.header2 {
+    position: fixed;
+    top: 40px;
+    left: 0;
+    right: 0;
+
+    width: 100vw;
+    height: 40px;
+    background: #1e2025;
+    border-bottom: 1px solid #00040D;
+    color: white;
+
+    min-width: 1080px;
+}
+
+.menu {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+
+    width: 1080px;
+    height: 40px;
+    background-color: #1e2025;
+}
+
+.logo {
+    float: left;
+    width: 150px;
+    height: 40px;
+    background-color: #1E2025;
+    text-align: center;
+    line-height: 40px;
+    font-size: 14px;
+    color: white;
+}
+
+.btn {
+    float: left;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 14px;
+    background-color: #1e2025;
+    color: white;
+}
+
+.minibtn {
+    float: left;
+    width: 90px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 14px;
+    background-color: #1e2025;
+    color: white;
+}
+
+.bigbtn {
+    float: left;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 14px;
+    background-color: #1e2025;
+    color: white;
+}
+
+.active {
+    float: left;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+
+    font-size: 14px;
+    font-weight: bold;
+
+    background-color: #272b34;
+    color: white;
+    border-bottom: 2px solid #AD1017;
+}

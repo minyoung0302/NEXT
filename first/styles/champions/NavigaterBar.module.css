@@ -1,0 +1,85 @@
+.body {
+    /* position: fixed; */
+    top: 82px;
+    left: 0;
+    right: 0;
+
+    width: 100vw;
+    height: 40px;
+    background: #00040D;
+    color: white;
+
+    min-width: 1080px;
+}
+
+.menu {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+
+    width: 1080px;
+    height: 40px;
+    background-color: #1e2025;
+
+    border-bottom: 1px solid #00040D;
+}
+
+.state {
+    float: left;
+    width: 160px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 14px;
+    background-color: #1e2025;
+    color: white;
+}
+
+.tier {
+    float: left;
+    width: 160px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 14px;
+    background-color: #1e2025;
+    color: white;
+}
+
+.version {
+    float: left;
+    width: 90px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 14px;
+    background-color: #1e2025;
+    color: white;
+}
+
+.btn {
+    
+    float: left;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 14px;
+    background-color: #1e2025;
+    color: white;
+}
+
+.active {
+    float: left;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+
+    font-size: 14px;
+    font-weight: bold;
+
+    background-color: #272b34;
+    color: white;
+    border-bottom: 2px solid #AD1017;
+}
