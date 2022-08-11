@@ -1,0 +1,21 @@
+.header {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100vw;
+    height: 180px;
+    color: white;
+    background-color: #990000;
+
+}
+
+.body {
+    position: absolute;
+    top: 75px;
+    left: 0px;
+
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    background-color: #1e2025;
+}

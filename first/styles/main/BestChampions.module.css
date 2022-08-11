@@ -1,0 +1,16 @@
+.bestchampions {
+    position: absolute;
+    transform: translate(-50%, 0);
+    top: 600px;
+    left: 50%;
+    width: 880px;
+    height: 500px;
+    background-color: white;
+    border: 3px solid #990000;
+
+    color: black;
+    text-align: left;
+    line-height: 60px;
+    font-size: 20px;
+
+}

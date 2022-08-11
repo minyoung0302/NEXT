@@ -1,5 +1,5 @@
 import NavigaterBar from '../components/NavigaterBar'
-import '../styles/globals.css'
+import styles from '../styles/main/header.module.css'
 
 function MyApp({ Component, pageProps }) {
   return (
